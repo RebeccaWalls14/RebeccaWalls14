@@ -1,16 +1,16 @@
-## Hi there 👋
+## New thing, hello 👋
 
 <!--
 **RebeccaWalls14/RebeccaWalls14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here's what you should know about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🧀 Cheese
+🧀 More cheese
+🕦 At 11:30 have cheese
+🌟 Or I will explode
+🎱 Ask the Magic 8 ball, it's true
+📟 Paging Dr. Cheese
+🔑 Cheese is key
+🔛 Really on one!
 -->
